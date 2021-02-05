@@ -1,3 +1,5 @@
 hi
 i am rudy
+i like coding
 this is 2nd file
+i made changes and edited it
